@@ -1,0 +1,727 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Elevate Your Health Journey with Our Premium Products!",
+            "heading_size": "h0"
+          }
+        },
+        "buttons_pVK3W7": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View Collection 👉🏻",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false,
+            "button_rounded_corners": "medium",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#28a745",
+            "button_padding_vertical": 20
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "buttons_pVK3W7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/19.webp",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "pp_image_with_text_HNW9yr": {
+      "type": "pp-image-with-text",
+      "blocks": {
+        "heading_XBqRa6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to FitFlair, your ultimate health companion!",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "heading_mobilealignment": "center",
+            "heading_color": "#000000"
+          }
+        },
+        "text_BnFjzQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Empowering your health journey. Welcome to FitFlair, where we offer top-notch health products to support your wellness goals. From supplements to fitness gear, we've got you covered!</p>",
+            "text_style": "subtitle",
+            "text_alignment": "left",
+            "text_mobilealignment": "left",
+            "text_color": "#000000"
+          }
+        },
+        "button_ewqPQY": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Our Story 👉🏻",
+            "button_link": "/pages/about-us",
+            "button_link_newtab": false,
+            "button_text_color": "#ffffff",
+            "button_background_color": "#28a745",
+            "button_border_width": 0,
+            "button_border_color": "#000000",
+            "button_width": "full",
+            "button_alignment": "left",
+            "button_mobilealignment": "center",
+            "button_rounded_corners": "medium",
+            "button_padding_vertical": 15,
+            "button_padding_horizontal": 25,
+            "button_subtext": "Find out what's our mission and goals",
+            "button_subtext_style": "body",
+            "button_subtext_color": "#000000",
+            "button_action": "link",
+            "button_action_scroll_element": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_XBqRa6",
+        "text_BnFjzQ",
+        "button_ewqPQY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/16.webp",
+        "desktop_image_width": "large",
+        "image_border_radius": 50,
+        "layout": "image_first",
+        "mobile_layout": "image_first",
+        "gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 40,
+        "margin_bottom": 0
+      }
+    },
+    "pp_image_with_benefits_YnG9hi": {
+      "type": "pp-image-with-benefits",
+      "blocks": {
+        "benefit_D6UzNR": {
+          "type": "benefit",
+          "settings": {
+            "emoji": "💪",
+            "emoji_size": "medium",
+            "heading": "Quality Products",
+            "heading_size": "h3",
+            "heading_color": "#000000",
+            "text": "<p>Our products are crafted with the highest standards to ensure your health and safety.</p>",
+            "text_style": "body",
+            "text_color": "#000000"
+          }
+        },
+        "benefit_QgKXFK": {
+          "type": "benefit",
+          "settings": {
+            "emoji": "🚚",
+            "emoji_size": "medium",
+            "heading": "Fast Shipping",
+            "heading_size": "h3",
+            "heading_color": "#000000",
+            "text": "<p>Get your health essentials delivered to your doorstep quickly and efficiently.</p>",
+            "text_style": "body",
+            "text_color": "#000000"
+          }
+        },
+        "benefit_47AwEj": {
+          "type": "benefit",
+          "settings": {
+            "emoji": "💬",
+            "emoji_size": "medium",
+            "heading": "Excellent Support",
+            "heading_size": "h3",
+            "heading_color": "#000000",
+            "text": "<p>Our team is here to assist you with any questions or concerns you may have.</p>",
+            "text_style": "body",
+            "text_color": "#000000"
+          }
+        },
+        "benefit_EKiWTc": {
+          "type": "benefit",
+          "settings": {
+            "emoji": "💰",
+            "emoji_size": "medium",
+            "heading": "Affordable Prices",
+            "heading_size": "h3",
+            "heading_color": "#000000",
+            "text": "<p>We offer competitive pricing without compromising on quality.</p>",
+            "text_style": "body",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "benefit_D6UzNR",
+        "benefit_QgKXFK",
+        "benefit_47AwEj",
+        "benefit_EKiWTc"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/28.webp",
+        "desktop_image_width": "medium",
+        "image_border_radius": 100,
+        "heading": "Why Choose Us for Your Health Needs?",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_mobilealignment": "center",
+        "heading_color": "#000000",
+        "text": "<p>At FitFlair, we prioritize quality, affordability, and customer satisfaction. Discover why we're the best choice for your health journey.</p>",
+        "text_style": "subtitle",
+        "text_alignment": "center",
+        "text_mobilealignment": "center",
+        "text_color": "#000000",
+        "gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), #dff9e5 100%)",
+        "padding_top": 52,
+        "padding_bottom": 44,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Discover Our Collection",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_mobilealignment": "center",
+        "heading_color": "#000000",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 10,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "image_rounded_corners": "high",
+        "color_scheme": "scheme-1",
+        "button_rounded_corners": "medium",
+        "button_width": "fit",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "pp_reviews_EXpLcn": {
+      "type": "pp-reviews",
+      "blocks": {
+        "review_dtNXc1": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Emily R.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "OMG, FitFlair is a game-changer! I ordered their protein powder and it arrived super fast. The quality is top-notch and it tastes amazing. Plus, their customer service is so helpful. I had a question about my order and they responded within minutes. I'm definitely a loyal customer now. Highly recommend to anyone serious about their health journey! 💪🥤",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc2": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Jake T.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "FitFlair is lit! 🔥 Got my supplements in no time. Quality is A1. Will def buy again.",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc3": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Sophia M.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Luv this store! The fitness gear I got is so durable and stylish. Shipping was fast too! 😊",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc4": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Michael B.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "The best store!!",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc5": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Olivia K.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "FitFlair has everything I need for my fitness routine. Their products are reliable and affordable. Shipping is always prompt, and the customer service is friendly and knowledgeable. I appreciate the variety they offer, from supplements to workout gear. It's my go-to store for all things health-related. Keep up the great work, FitFlair! 💪",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc6": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Lucas P.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Fast shipping, great products, and awesome support. What more could u ask for? 😎",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc7": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Ava S.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "FitFlair's customer service is on point. Had an issue with my order and they fixed it ASAP. 🙌",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc8": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Ethan W.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "The protein bars are delicious and give me the energy I need for my workouts. Thanks, FitFlair! 🍫",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc9": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Mia J.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "FitFlair is my fav store for health products. Always reliable and affordable. 💖",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc10": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Noah H.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Super impressed with the quality of the supplements. Will def recommend to my friends.",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc11": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Isabella D.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "FitFlair's fitness gear is top-notch. Stylish and durable. Love it! 😍",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc12": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Liam C.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Great prices and fast delivery. FitFlair never disappoints. 👍",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc13": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Amelia F.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "The best store for health products. Quality and service are unmatched.",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc14": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Mason G.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "FitFlair's supplements are the real deal. Feel the difference in my workouts. 💪",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        },
+        "review_dtNXc15": {
+          "type": "review",
+          "settings": {
+            "image_border_radius": "low",
+            "author_text": "Charlotte N.",
+            "author_style": "subtitle",
+            "author_color": "#000000",
+            "author_badge_text": "Verified Purchase",
+            "author_badge_text_style": "body",
+            "author_badge_text_color": "#000000",
+            "author_badge_color": "#2993f1",
+            "stars_size": "sm",
+            "stars_color": "#facc15",
+            "stars_number": 5,
+            "stars_alignment": "start",
+            "stars_mobilealignment": "start",
+            "review_text": "Love it!",
+            "review_text_style": "body",
+            "review_text_color": "#000000",
+            "review_background_color": "#ffffff",
+            "review_border_radius": "low"
+          }
+        }
+      },
+      "block_order": [
+        "review_dtNXc1",
+        "review_dtNXc2",
+        "review_dtNXc3",
+        "review_dtNXc4",
+        "review_dtNXc5",
+        "review_dtNXc6",
+        "review_dtNXc7",
+        "review_dtNXc8",
+        "review_dtNXc9",
+        "review_dtNXc10",
+        "review_dtNXc11",
+        "review_dtNXc12",
+        "review_dtNXc13",
+        "review_dtNXc14",
+        "review_dtNXc15"
+      ],
+      "settings": {
+        "heading_stars_size": "lg",
+        "heading_stars_color": "#facc15",
+        "stars_alignment": "center",
+        "stars_mobilealignment": "center",
+        "heading_stars_number": 5,
+        "heading": "People love our products!",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_mobilealignment": "center",
+        "heading_color": "#000000",
+        "text": "<p>Rated 4.9/5 by 5,000+ Happy Customers</p>",
+        "text_style": "subtitle",
+        "text_alignment": "center",
+        "text_mobilealignment": "center",
+        "text_color": "#000000",
+        "gradient": "",
+        "button_label": "",
+        "button_link": "",
+        "button_link_newtab": true,
+        "button_text_color": "#ffffff",
+        "button_background_color": "#28a745",
+        "button_border_width": 0,
+        "button_border_color": "#000000",
+        "button_width": "fit",
+        "button_width_mobile": "full",
+        "button_alignment": "center",
+        "button_mobilealignment": "left",
+        "button_rounded_corners": "medium",
+        "button_padding_vertical": 15,
+        "button_padding_horizontal": 15,
+        "button_subtext": "",
+        "button_subtext_style": "body",
+        "button_subtext_color": "#000000",
+        "button_action": "scroll",
+        "button_action_scroll_element": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "pp_guarantee_d8zzPK": {
+      "type": "pp-guarantee",
+      "blocks": {
+        "icon_XHDhV4": {
+          "type": "icon",
+          "settings": {
+            "icon_type": "heart",
+            "icon_size": 65,
+            "icon_alignment": "center",
+            "icon_mobilealignment": "center",
+            "icon_color": "#28a745"
+          }
+        },
+        "heading_CQ6HWW": {
+          "type": "heading",
+          "settings": {
+            "heading": "30-Day Money-Back Guarantee! Shop with Confidence!",
+            "heading_size": "h1",
+            "heading_alignment": "center",
+            "heading_mobilealignment": "center",
+            "heading_color": "#000000"
+          }
+        },
+        "text_4XnaxC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're confident you'll love our products, but if you're not satisfied, we offer a full refund within 30 days. Your satisfaction is our priority, and we stand by our quality with a 30-day money-back guarantee. Shop with peace of mind knowing that your health journey is supported by FitFlair.</p>",
+            "text_style": "subtitle",
+            "text_alignment": "center",
+            "text_mobilealignment": "center",
+            "text_color": "#000000"
+          }
+        },
+        "button_nd9nGW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now 👉🏻",
+            "button_link": "/collections/all",
+            "button_link_newtab": false,
+            "button_text_color": "#ffffff",
+            "button_background_color": "#28a745",
+            "button_border_width": 0,
+            "button_border_color": "#000000",
+            "button_width": "fit",
+            "button_width_mobile": "full",
+            "button_alignment": "center",
+            "button_mobilealignment": "center",
+            "button_rounded_corners": "medium",
+            "button_padding_vertical": 15,
+            "button_padding_horizontal": 15,
+            "button_subtext": "Enjoy 30-Day Money Back Guarantee",
+            "button_subtext_style": "body",
+            "button_subtext_color": "#000000",
+            "button_action": "link",
+            "button_action_scroll_element": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_XHDhV4",
+        "heading_CQ6HWW",
+        "text_4XnaxC",
+        "button_nd9nGW"
+      ],
+      "settings": {
+        "gradient": "",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "pp_image_with_text_HNW9yr",
+    "pp_image_with_benefits_YnG9hi",
+    "featured_collection",
+    "pp_reviews_EXpLcn",
+    "pp_guarantee_d8zzPK"
+  ]
+}

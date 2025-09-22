@@ -1,0 +1,173 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "pp_image_with_text_Mwp9Hi": {
+      "type": "pp-image-with-text",
+      "blocks": {
+        "heading_GVL4Hb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Join the FitFlair Community Today!<\/strong>",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "heading_mobilealignment": "center",
+            "heading_color": "#000000"
+          }
+        },
+        "text_juioQH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At FitFlair, we believe in the power of community and the impact of a healthy lifestyle. Our mission is to provide you with the best health products to support your wellness journey. We are passionate about helping you achieve your fitness goals and live a healthier, happier life. Join us and become part of a community that values health, wellness, and personal growth.<\/p>",
+            "text_style": "subtitle",
+            "text_alignment": "left",
+            "text_mobilealignment": "left",
+            "text_color": "#000000"
+          }
+        },
+        "button_zWUYxa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now 👉🏻",
+            "button_link": "\/collections\/all",
+            "button_link_newtab": false,
+            "button_text_color": "#FFFFFF",
+            "button_background_color": "#28a745",
+            "button_border_width": 0,
+            "button_border_color": "#000000",
+            "button_width": "full",
+            "button_alignment": "left",
+            "button_mobilealignment": "center",
+            "button_rounded_corners": "medium",
+            "button_padding_vertical": 15,
+            "button_padding_horizontal": 15,
+            "button_subtext": "",
+            "button_subtext_style": "body",
+            "button_subtext_color": "#000000",
+            "button_action": "link",
+            "button_action_scroll_element": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_GVL4Hb",
+        "text_juioQH",
+        "button_zWUYxa"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/2.webp",
+        "desktop_image_width": "medium",
+        "image_border_radius": 50,
+        "layout": "image_first",
+        "mobile_layout": "image_first",
+        "gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "pp_image_with_text_ttLHQy": {
+      "type": "pp-image-with-text",
+      "blocks": {
+        "heading_pnf3ak": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Discover Our Secret to Success<\/strong>",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "heading_mobilealignment": "center",
+            "heading_color": "#000000"
+          }
+        },
+        "text_tfexQH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our secret lies in our commitment to quality and customer satisfaction. At FitFlair, we carefully select our products to ensure they meet the highest standards. We believe that everyone deserves access to premium health products at affordable prices. Start your journey with us today and experience the FitFlair difference!<\/p>",
+            "text_style": "subtitle",
+            "text_alignment": "left",
+            "text_mobilealignment": "left",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pnf3ak",
+        "text_tfexQH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/26.webp",
+        "desktop_image_width": "medium",
+        "image_border_radius": 50,
+        "layout": "text_first",
+        "mobile_layout": "image_first",
+        "gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.68), #c0f2ca 100%)",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "margin_top": 52,
+        "margin_bottom": 52
+      }
+    },
+    "pp_image_with_text_xd44KG": {
+      "type": "pp-image-with-text",
+      "blocks": {
+        "heading_hH8Xcf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Our Mission<\/strong>",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "heading_mobilealignment": "center",
+            "heading_color": "#000000"
+          }
+        },
+        "text_qzgWdQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We aim to empower individuals to lead healthier lives by providing top-quality health products and exceptional service.<\/p>",
+            "text_style": "subtitle",
+            "text_alignment": "left",
+            "text_mobilealignment": "left",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hH8Xcf",
+        "text_qzgWdQ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/22.webp",
+        "desktop_image_width": "medium",
+        "image_border_radius": 50,
+        "layout": "image_first",
+        "mobile_layout": "image_first",
+        "gradient": "",
+        "padding_top": 20,
+        "padding_bottom": 40,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "pp_image_with_text_Mwp9Hi",
+    "pp_image_with_text_ttLHQy",
+    "pp_image_with_text_xd44KG"
+  ]
+}
