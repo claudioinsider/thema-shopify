@@ -231,6 +231,16 @@
         "padding_bottom": 52
       }
     },
+    "custom_liquid_FK4pkr": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "custom_liquid_EbdqjG": {
       "type": "custom-liquid",
       "name": "Plantas",
@@ -1062,6 +1072,7 @@
   "order": [
     "main",
     "custom_liquid_UhpC8p",
+    "custom_liquid_FK4pkr",
     "custom_liquid_EbdqjG",
     "pp_reviews_dqQHmw",
     "pp_comparison_table_ttamEN",
