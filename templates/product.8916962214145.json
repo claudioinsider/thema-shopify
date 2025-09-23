@@ -50,7 +50,7 @@
         "pp_text_VLf9ic": {
           "type": "pp-text",
           "settings": {
-            "pp_text": "<strong>Revitalize your neck health and relaxation with cutting-edge heating therapy.</strong>",
+            "pp_text": "<strong>Unlock Your Digestive Comfort Soothe Acidity & Feel Good with Gastri Calm.</strong>",
             "pp_text_size": "body",
             "pp_text_color": "#000000",
             "pp_text_alignment": "left",
@@ -65,10 +65,10 @@
         "pp_benefits_Lfapdf": {
           "type": "pp-benefits",
           "settings": {
-            "pp_benefits_text1": "✔️ Relieve neck pain naturally every night.",
-            "pp_benefits_text2": "✔️ Promote muscle relaxation while sleeping.",
-            "pp_benefits_text3": "✔️ Enjoy ergonomic spine support effortlessly.",
-            "pp_benefits_text4": "✔️ Feel rejuvenated with heat and massage.",
+            "pp_benefits_text1": "✔️ Neutralizes toxins from the bacteria that inflame the gastric mucosa.",
+            "pp_benefits_text2": "✔️ Prevents gastric mucosal inflammation from persisting.",
+            "pp_benefits_text3": "✔️ Repairs damage caused by the inflammatory bacteria.",
+            "pp_benefits_text4": "✔️ Eliminates the bacteria that causes gastric inflammation.",
             "pp_benefits_text_size": "body",
             "pp_benefits_text_color": "#000000",
             "pp_benefits_text_alignment": "left",
@@ -155,12 +155,12 @@
         "pp_expandable_r43w6T": {
           "type": "pp-expandable",
           "settings": {
-            "pp_expandable_title1": "🚚 Shipping",
-            "pp_expandable_content1": "<p><p>Enjoy insured shipping on all orders. We process orders within 1-3 business days before dispatching. Upon shipment, the anticipated delivery times are as follows:</p><ul><li>USA: 3-7 business days</li><li>UK: 7-18 business days</li><li>Australia: 7-18 business days</li><li>Canada: 7-18 business days</li><li>Europe: 7-18 business days</li><li>Rest of world: 14-20 business days</li></ul></p>",
-            "pp_expandable_title2": "📦 Returns",
-            "pp_expandable_content2": "<p><p>We are certain you wll adore our products, just as we do! If, however, things don not work out as expected, our return and refund policy is crafted to simplify the process for you. You can return the product for a full refund within 30 days of purchase.</p></p>",
-            "pp_expandable_title3": "🏅 Money Back Guarantee",
-            "pp_expandable_content3": "<p><p>You can try our products risk-free with our 30-day Money-Back Guarantee. If you are not completely satisfied, simply return it for a full refund.</p></p>",
+            "pp_expandable_title1": "Key Ingredients",
+            "pp_expandable_content1": "<ul><li>Ingredients - 1</li> <li>Ingredients - 2</li></ul>",
+            "pp_expandable_title2": "Benefits",
+            "pp_expandable_content2": "<ul><li>Ben - 1</li> <li>Ben - 2</li></ul>",
+            "pp_expandable_title3": "Does it work?",
+            "pp_expandable_content3": "<p>Yes. And for the best results, it’s recommended to take the supplement each morning for at least 30 days. Because each capsule contains a daily portion of boosting wild-crafted, naturopathic-approved herbs.</p>",
             "pp_expandable_text_size": "medium",
             "pp_expandable_answer_size": "small",
             "pp_expandable_text_color": "#000000",
@@ -287,12 +287,12 @@
         "image": "shopify://shop_images/S88a9263fbdfb4b8c967b5998b5d0fd03A.webp",
         "desktop_image_width": "medium",
         "image_border_radius": 100,
-        "heading": "<strong>Experience Enhanced Sleep Quality</strong>",
+        "heading": "<strong>How To use</strong>",
         "heading_size": "h1",
         "heading_alignment": "center",
         "heading_mobilealignment": "center",
         "heading_color": "#000000",
-        "text": "<p>Transform your nights with targeted heat and comfort to wake up refreshed.</p>",
+        "text": "",
         "text_style": "subtitle",
         "text_alignment": "center",
         "text_mobilealignment": "center",
@@ -351,11 +351,7 @@
           }
         }
       },
-      "block_order": [
-        "heading_aFxCRe",
-        "text_ifpgzE",
-        "button_cPWTPH"
-      ],
+      "block_order": ["heading_aFxCRe", "text_ifpgzE", "button_cPWTPH"],
       "settings": {
         "image": "shopify://shop_images/Sed4e489a72cc4788ad04122690103fdaX.webp",
         "desktop_image_width": "large",
