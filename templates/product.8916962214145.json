@@ -221,89 +221,6 @@
         "mobile_padding_bottom": 0
       }
     },
-    "pp_image_with_benefits_gkXTTj": {
-      "type": "pp-image-with-benefits",
-      "blocks": {
-        "benefit_7CB6Bn": {
-          "type": "benefit",
-          "settings": {
-            "emoji": "🔥",
-            "emoji_size": "medium",
-            "heading": "Healing",
-            "heading_size": "h3",
-            "heading_color": "#000000",
-            "text": "<p>Provides warmth to reduce neck tension.</p>",
-            "text_style": "body",
-            "text_color": "#000000"
-          }
-        },
-        "benefit_7HpQgA": {
-          "type": "benefit",
-          "settings": {
-            "emoji": "💆‍♀️",
-            "emoji_size": "medium",
-            "heading": "Relax",
-            "heading_size": "h3",
-            "heading_color": "#000000",
-            "text": "<p>Enhances sleep with gentle massage functions.</p>",
-            "text_style": "body",
-            "text_color": "#000000"
-          }
-        },
-        "benefit_erNb6q": {
-          "type": "benefit",
-          "settings": {
-            "emoji": "🛌",
-            "emoji_size": "medium",
-            "heading": "Support",
-            "heading_size": "h3",
-            "heading_color": "#000000",
-            "text": "<p>Aligns with spine contours for better posture.</p>",
-            "text_style": "body",
-            "text_color": "#000000"
-          }
-        },
-        "benefit_gJWaeR": {
-          "type": "benefit",
-          "settings": {
-            "emoji": "🌟",
-            "emoji_size": "medium",
-            "heading": "Comfort",
-            "heading_size": "h3",
-            "heading_color": "#000000",
-            "text": "<p>Ideal for home or travel, ensuring peace.</p>",
-            "text_style": "body",
-            "text_color": "#000000"
-          }
-        }
-      },
-      "block_order": [
-        "benefit_7CB6Bn",
-        "benefit_7HpQgA",
-        "benefit_erNb6q",
-        "benefit_gJWaeR"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/S88a9263fbdfb4b8c967b5998b5d0fd03A.webp",
-        "desktop_image_width": "medium",
-        "image_border_radius": 100,
-        "heading": "<strong>How To use</strong>",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_mobilealignment": "center",
-        "heading_color": "#000000",
-        "text": "",
-        "text_style": "subtitle",
-        "text_alignment": "center",
-        "text_mobilealignment": "center",
-        "text_color": "#000000",
-        "gradient": "linear-gradient(176deg, rgba(255, 255, 255, 0), #dff9e5 100%)",
-        "padding_top": 32,
-        "padding_bottom": 32,
-        "margin_top": 20,
-        "margin_bottom": 36
-      }
-    },
     "custom_liquid_UhpC8p": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -1307,7 +1224,6 @@
   },
   "order": [
     "main",
-    "pp_image_with_benefits_gkXTTj",
     "custom_liquid_UhpC8p",
     "pp_image_with_text_BVEaDq",
     "pp_image_with_percentage_fLf47C",
