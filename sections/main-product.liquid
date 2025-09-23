@@ -424,7 +424,11 @@
                       {% endcase %}
 
                       {% if block.settings.pp_review_stars_number > 0 %}
-                        <div class="pp-flex pp-gap-0.5 pp-justify-{{ block.settings.pp_review_stars_mobilealignment }} sm:pp-justify-{{ block.settings.pp_review_stars_alignment }}">
+                        <div style="justify-content: space-between; display: flex; font-weight: bolder;">
+                        <h2>Lucy X.</h2>
+                   
+                        <div  class="pp-flex pp-gap-0.5 pp-justify-{{ block.settings.pp_review_stars_mobilealignment }} sm:pp-justify-{{ block.settings.pp_review_stars_alignment }}">
+                        
                           {% for i in (1..block.settings.pp_review_stars_number) %}
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
@@ -433,7 +437,9 @@
                             >
                               <path d="M234.29,114.85l-45,38.83L203,211.75a16.4,16.4,0,0,1-24.5,17.82L128,198.49,77.47,229.57A16.4,16.4,0,0,1,53,211.75l13.76-58.07-45-38.83A16.46,16.46,0,0,1,31.08,86l59-4.76,22.76-55.08a16.36,16.36,0,0,1,30.27,0l22.75,55.08,59,4.76a16.46,16.46,0,0,1,9.37,28.86Z"></path>
                             </svg>
+                    
                           {% endfor %}
+                          </div>
                         </div>
                       {% endif %}
 
@@ -457,7 +463,7 @@
                             <path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm45.66,85.66-56,56a8,8,0,0,1-11.32,0l-24-24a8,8,0,0,1,11.32-11.32L112,148.69l50.34-50.35a8,8,0,0,1,11.32,11.32Z"></path>
                           </svg>
                           <div class="{% if block.settings.pp_review_author_badge_text_style == 'small' %}pp-text-xl{% elsif block.settings.pp_review_author_badge_text_style == 'medium' %}body{% elsif block.settings.pp_review_author_badge_text_style == 'large' %}subtitle{% endif %}">
-                            {{ block.settings.pp_review_author_badge_text }}
+                                       Verified Customer
                           </div>
                         </div>
                       {% endif %}
