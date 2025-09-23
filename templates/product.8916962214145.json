@@ -126,6 +126,27 @@
             "pp_guarantees_padding_bottom": 16
           }
         },
+        "pp_expandable_r43w6T": {
+          "type": "pp-expandable",
+          "settings": {
+            "pp_expandable_title1": "Key Ingredients",
+            "pp_expandable_content1": "<ul><li>Ingredients - 1</li> <li>Ingredients - 2</li></ul>",
+            "pp_expandable_title2": "Benefits",
+            "pp_expandable_content2": "<ul><li>Ben - 1</li> <li>Ben - 2</li></ul>",
+            "pp_expandable_title3": "Does it work?",
+            "pp_expandable_content3": "<p>Yes. And for the best results, it’s recommended to take the supplement each morning for at least 30 days. Because each capsule contains a daily portion of boosting wild-crafted, naturopathic-approved herbs.</p>",
+            "pp_expandable_text_size": "medium",
+            "pp_expandable_answer_size": "small",
+            "pp_expandable_text_color": "#000000",
+            "pp_expandable_arrow_color": "#000000",
+            "pp_expandable_text_border_color": "#e8e8e1",
+            "pp_expandable_border_top": 1,
+            "pp_expandable_border_bottom": 0,
+            "pp_expandable_border_color": "#e8e8e1",
+            "pp_expandable_padding_top": 12,
+            "pp_expandable_padding_bottom": 0
+          }
+        },
         "pp_review_DzipVt": {
           "type": "pp-review",
           "settings": {
@@ -150,27 +171,6 @@
             "pp_review_border_color": "#e8e8e1",
             "pp_review_padding_top": 0,
             "pp_review_padding_bottom": 0
-          }
-        },
-        "pp_expandable_r43w6T": {
-          "type": "pp-expandable",
-          "settings": {
-            "pp_expandable_title1": "Key Ingredients",
-            "pp_expandable_content1": "<ul><li>Ingredients - 1</li> <li>Ingredients - 2</li></ul>",
-            "pp_expandable_title2": "Benefits",
-            "pp_expandable_content2": "<ul><li>Ben - 1</li> <li>Ben - 2</li></ul>",
-            "pp_expandable_title3": "Does it work?",
-            "pp_expandable_content3": "<p>Yes. And for the best results, it’s recommended to take the supplement each morning for at least 30 days. Because each capsule contains a daily portion of boosting wild-crafted, naturopathic-approved herbs.</p>",
-            "pp_expandable_text_size": "medium",
-            "pp_expandable_answer_size": "small",
-            "pp_expandable_text_color": "#000000",
-            "pp_expandable_arrow_color": "#000000",
-            "pp_expandable_text_border_color": "#e8e8e1",
-            "pp_expandable_border_top": 1,
-            "pp_expandable_border_bottom": 0,
-            "pp_expandable_border_color": "#e8e8e1",
-            "pp_expandable_padding_top": 12,
-            "pp_expandable_padding_bottom": 0
           }
         },
         "pp_partners_7B3bAx": {
@@ -304,6 +304,16 @@
         "margin_bottom": 36
       }
     },
+    "custom_liquid_UhpC8p": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>How To Use Component</title>\n    <style>\n      .how-to-use-container {\n        margin: auto;\n        font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto,\n          Oxygen, Ubuntu, Cantarell, sans-serif;\n        padding: 40px;\n        max-width: 500px;\n        width: 100%;\n        position: relative;\n        overflow: hidden;\n      }\n\n      .how-to-use-container::before {\n        content: \"\";\n        position: absolute;\n        bottom: -50px;\n        left: -50px;\n        right: -50px;\n        height: 100px;\n        background: #fff;\n        border-radius: 50% 50% 0 0;\n        opacity: 0.3;\n      }\n\n      .how-to-use-header {\n        text-align: center;\n        margin-bottom: 35px;\n      }\n\n      .how-to-use-header h2 {\n        color: #000000;\n        font-size: 32px;\n        font-weight: 700;\n        letter-spacing: -0.5px;\n      }\n\n      .how-to-use-content {\n        display: flex;\n        flex-direction: column;\n        gap: 20px;\n        position: relative;\n        z-index: 1;\n      }\n\n      .instruction-item {\n        display: flex;\n        align-items: center;\n        gap: 20px;\n        padding: 5px 0;\n      }\n\n      .instruction-number {\n        background-color: #b5db8a;\n        color: #153f17;\n        width: 45px;\n        height: 45px;\n        border-radius: 50%;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        font-size: 22px;\n        font-weight: 600;\n        flex-shrink: 0;\n        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);\n      }\n\n      .instruction-text {\n        color: #3d2e24;\n        font-size: 16px;\n        line-height: 1.5;\n        flex: 1;\n      }\n\n      @media (max-width: 480px) {\n        .how-to-use-container {\n          padding: 30px 20px;\n        }\n\n        .how-to-use-header h2 {\n          font-size: 28px;\n        }\n\n        .instruction-number {\n          width: 40px;\n          height: 40px;\n          font-size: 20px;\n        }\n\n        .instruction-text {\n          font-size: 15px;\n        }\n      }\n    </style>\n  </head>\n  <body>\n    <div class=\"how-to-use-container\">\n      <div class=\"how-to-use-header\">\n        <h2>How To Use</h2>\n      </div>\n\n      <div class=\"how-to-use-content\">\n        <div class=\"instruction-item\">\n          <div class=\"instruction-number\">1</div>\n          <div class=\"instruction-text\">\n            Take 3 capsules once or twice daily recommended\n          </div>\n        </div>\n\n        <div class=\"instruction-item\">\n          <div class=\"instruction-number\">2</div>\n          <div class=\"instruction-text\">Take with a full glass of water.</div>\n        </div>\n\n        <div class=\"instruction-item\">\n          <div class=\"instruction-number\">3</div>\n          <div class=\"instruction-text\">\n            Use with fresh cold-pressed juice or smoothie\n          </div>\n        </div>\n\n        <div class=\"instruction-item\">\n          <div class=\"instruction-number\">4</div>\n          <div class=\"instruction-text\">\n            Must be taken for 30 days for best results\n          </div>\n        </div>\n      </div>\n    </div>\n  </body>\n</html>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "pp_image_with_text_BVEaDq": {
       "type": "pp-image-with-text",
       "blocks": {
@@ -351,7 +361,11 @@
           }
         }
       },
-      "block_order": ["heading_aFxCRe", "text_ifpgzE", "button_cPWTPH"],
+      "block_order": [
+        "heading_aFxCRe",
+        "text_ifpgzE",
+        "button_cPWTPH"
+      ],
       "settings": {
         "image": "shopify://shop_images/Sed4e489a72cc4788ad04122690103fdaX.webp",
         "desktop_image_width": "large",
@@ -965,6 +979,7 @@
         "button_border_width": 0,
         "button_border_color": "#000000",
         "button_width": "fit",
+        "button_width_mobile": "full",
         "button_alignment": "center",
         "button_mobilealignment": "center",
         "button_rounded_corners": "medium",
@@ -1275,6 +1290,8 @@
         "enable_desktop_slider": false,
         "image_rounded_corners": "medium",
         "color_scheme": "",
+        "button_rounded_corners": "medium",
+        "button_width": "fit",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -1291,6 +1308,7 @@
   "order": [
     "main",
     "pp_image_with_benefits_gkXTTj",
+    "custom_liquid_UhpC8p",
     "pp_image_with_text_BVEaDq",
     "pp_image_with_percentage_fLf47C",
     "pp_reviews_dqQHmw",
