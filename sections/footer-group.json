@@ -17,29 +17,29 @@
         "text_aRtVUk": {
           "type": "text",
           "settings": {
-            "heading": "<strong>About FitFlair<\/strong>",
-            "subtext": "<p>FitFlair is your trusted partner in health and wellness, offering a wide range of premium products to support your fitness journey. With a focus on quality, affordability, and customer satisfaction, we strive to be your go-to source for all your health needs. Join our community and experience the FitFlair difference today!<\/p>"
+            "heading": "<strong>About FitFlair</strong>",
+            "subtext": "<p>FitFlair is your trusted partner in health and wellness, offering a wide range of premium products to support your fitness journey. With a focus on quality, affordability, and customer satisfaction, we strive to be your go-to source for all your health needs. Join our community and experience the FitFlair difference today!</p>"
           }
         },
         "link_list_LVMieL": {
           "type": "link_list",
           "settings": {
-            "heading": "<strong>Menu<\/strong>",
+            "heading": "<strong>Menu</strong>",
             "menu": "main-menu"
           }
         },
         "link_list_DEkNAY": {
           "type": "link_list",
           "settings": {
-            "heading": "<strong>Information<\/strong>",
+            "heading": "<strong>Information</strong>",
             "menu": "footer"
           }
         },
         "text_QETYcC": {
           "type": "text",
           "settings": {
-            "heading": "<strong>Contact Us<\/strong>",
-            "subtext": "<p><strong>📞 Phone:<\/strong> +1 777 777 7777<br\/><br\/><strong>💌 Email: <\/strong>youremail@gmail.com<\/p>"
+            "heading": "<strong>Contact Us</strong>",
+            "subtext": "<p><strong>📞 Phone:</strong> +1 777 777 7777<br/><br/><strong>💌 Email: </strong>youremail@gmail.com</p>"
           }
         }
       },
@@ -50,7 +50,7 @@
         "text_QETYcC"
       ],
       "settings": {
-        "gradient": "linear-gradient(180deg, #dff9e5, #dff9e5 100%)",
+        "gradient": "linear-gradient(180deg, rgba(223, 249, 229, 1), rgba(223, 249, 229, 1) 100%)",
         "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": false,
